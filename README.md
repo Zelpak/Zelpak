@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Zelpak
+- 👀 I’m interested in development
+- 🌱 I’m currently learning HTML, CSS, JS
+- 📫 How to reach me ...
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I like programming
