@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zelpak
 - 👀 I’m interested in development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I Master HTML,CSS, JS & python customtkinter
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like programming
