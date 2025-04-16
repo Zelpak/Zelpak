@@ -11,7 +11,8 @@ I'm just a guy who loves building cool stuff. Whether it's a desktop app or a cl
 ## 🧪 Stuff I’ve Made
 
 - **Synote** – my custom notepad app. Lightweight, clean, and built for people who just want to write without distractions.
-- **Tipster**: my custom tip calculator app, lightweight, clean, & built for Casual Users, Professionals, Developers & Students & its totally easy to use!
+- **Tipster** - my custom tip calculator app, lightweight, clean, & built for Casual Users, Professionals, Developers & Students & its totally easy to use!
+- **Honey list** - a simple yet powerful lightweight to do application for users that need tasks done without forgetting! data is saved using JSON!
 
 ## 🚧 Always Learning
 
