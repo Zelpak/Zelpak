@@ -1,6 +1,6 @@
 # Hey, I'm Zelpak 👋
 
-I'm just a guy who loves building cool stuff. Whether it's a desktop app or a clean web project, I enjoy turning ideas into real things.
+I'm just a guy who loves building cool stuff. Whether it's a desktop app or a clean web project, I enjoy turning ideas into real things. whether its a basic desktop app, or an app that's very useful for tech enthusiasts
 
 ## 🛠 What I Do
 
