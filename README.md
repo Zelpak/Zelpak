@@ -23,7 +23,7 @@ Right now I’m:
 
 ## 📬 Say Hi
 
-If you’re into dev stuff or just wanna chat, feel free to check out my repos or shoot me a message.
+If you’re into dev stuff or just wanna chat, feel free to check out my repos or shoot me a message. my discord zpak_.
 
 ---
 
